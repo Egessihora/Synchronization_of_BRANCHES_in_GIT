@@ -59,5 +59,3 @@ ___
 командой **git push --set-upstream origin название_ветки**
 
 [![branches.png](https://i.postimg.cc/sfWySfz6/branches.png)](https://postimg.cc/NLQWvc5m)
-
-
